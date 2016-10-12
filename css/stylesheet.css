@@ -1,0 +1,21 @@
+html{
+  text-align: center;
+}
+.intro {
+  font-family: cursive;
+}
+img.intro{
+  border: black 2px solid;
+}
+h1 {
+  text-align: center;
+  font-weight: bolder;
+  color: darkred;
+}
+h2.intro{
+  color: darkblue;
+  font-variant: small-caps
+}
+p{
+  font-family: cursive;
+}
