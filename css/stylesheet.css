@@ -19,3 +19,7 @@ h2{
 p{
   font-family: cursive;
 }
+p.highlight{
+  border: 3px purple solid;
+  background-color: yellow;
+}
